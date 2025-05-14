@@ -5,3 +5,4 @@
 [Removenthelement o/p link]->(https://github.com/kavyakashish/Advancedjava/blob/main/s5.png)
 [RemoveColors o/p link]->(https://github.com/kavyakashish/Advancedjava/blob/main/s6.png)
 [Iteratefromposition o/p link]->(https://github.com/kavyakashish/Advancedjava/blob/main/s7.png)
+[Iteratereverseorder o/p link]->(https://github.com/kavyakashish/Advancedjava/blob/main/s8.png)
