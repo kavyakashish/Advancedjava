@@ -2,3 +2,4 @@
 [colorsearch o/p link]->(https://github.com/kavyakashish/Advancedjava/blob/main/s2.png)
 [sortcolor o/p link]->(https://github.com/kavyakashish/Advancedjava/blob/main/s3.png)
 [Extractcolors o/p link]->(https://github.com/kavyakashish/Advancedjava/blob/main/s4.png)
+[Removenthelement o/p link]->(https://github.com/kavyakashish/Advancedjava/blob/main/s5.png)
