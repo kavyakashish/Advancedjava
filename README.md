@@ -9,3 +9,4 @@
 [Insertatend o/p link]->(https://github.com/kavyakashish/Advancedjava/blob/main/s9.png)
 [DisplayElementswithposition o/p link]->(https://github.com/kavyakashish/Advancedjava/blob/main/s10.png)
 [Swapelements o/p link]->(https://github.com/kavyakashish/Advancedjava/blob/main/s11.png)
+[Stringoperationsdemo o/p link]->(https://github.com/kavyakashish/Advancedjava/blob/main/s12.png)
