@@ -13,3 +13,4 @@
 [PerformanceTest o/p link]->(https://github.com/kavyakashish/Advancedjava/blob/main/s13.png)
 [Stringoperationsfulldemo o/p link]->(https://github.com/kavyakashish/Advancedjava/blob/main/s14.png)
 [Stringexerciseq1 o/p link]->(https://github.com/kavyakashish/Advancedjava/blob/main/s15.png)
+[Stringexerciseq2 o/p link]->(https://github.com/kavyakashish/Advancedjava/blob/main/s16.png)
