@@ -21,3 +21,4 @@
 [StringExerciseq7 o/p link]->(https://github.com/kavyakashish/Advancedjava/blob/main/s21.png)
 [StringExerciseq8 o/p link]->(https://github.com/kavyakashish/Advancedjava/blob/main/s22.png)
 [StringExerciseq9 o/p link]->(https://github.com/kavyakashish/Advancedjava/blob/main/s23.png)
+[StringExerciseq10 o/p link]->(https://github.com/kavyakashish/Advancedjava/blob/main/s24.png)
