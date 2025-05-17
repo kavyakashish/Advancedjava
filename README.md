@@ -18,3 +18,4 @@
 [StringExerciseq4 o/p link]->(https://github.com/kavyakashish/Advancedjava/blob/main/s18.png)
 [StringExerciseq5 o/p link]->(https://github.com/kavyakashish/Advancedjava/blob/main/s19.png)
 [StringExerciseq6 o/p link]->(https://github.com/kavyakashish/Advancedjava/blob/main/s20.png)
+[StringExerciseq7 o/p link]->(https://github.com/kavyakashish/Advancedjava/blob/main/s21.png)
